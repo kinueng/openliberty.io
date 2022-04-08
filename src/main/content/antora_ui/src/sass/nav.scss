@@ -82,12 +82,12 @@ html.is-clipped--nav {
 
 .nav-panel-menu::-webkit-scrollbar,
 .nav-panel-explore .components::-webkit-scrollbar {
-  width: 0.25rem;
+  width: 0.25rem; 
 }
 
 .nav-panel-menu::-webkit-scrollbar-thumb,
 .nav-panel-explore .components::-webkit-scrollbar-thumb {
-  background-color: var(--nav-border-color);
+  background-color: var(--nav-border-color); 
 }
 
 .nav-menu {
@@ -385,7 +385,7 @@ html.is-clipped--nav {
   border-radius: 7px;
   border-top: none;
   z-index: 2;
-  height: 75%;
+  height: 75%; 
 }
 
 .nav-panel-explore:not(.is-active) .components {
